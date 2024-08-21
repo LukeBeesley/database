@@ -1,0 +1,7 @@
+COMMANDS LIST
+-------------------
+% - Interact with main function
+! - Print out lists and text files
+
+
+
