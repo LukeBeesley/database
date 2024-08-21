@@ -3,5 +3,5 @@ really cool database with legitimately sourced game
 
 games include:
 Baldi's Basics Plus (%baldi)
-Simple Planes (&planes)
-Universe Sandbox (&universe)
+
+ok fine its not that many but they'll be added trust
